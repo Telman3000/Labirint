@@ -1,7 +1,7 @@
 # Labirint
 ![2023-06-11_17-00-51](https://github.com/Telman3000/Labirint/assets/136071674/9a07712a-b038-453a-af9a-eff5e5248bbd)
 
-labyrinth is an addictive game in which you have to go through many obstacles, killing enemies and going through difficult labyrinths. You will need to use your skills and strategies to get to the final sprite.
+labyrint is an addictive game in which you have to go through many obstacles, killing enemies and going through difficult labyrinths. You will need to use your skills and strategies to get to the final sprite.
 ![2023-06-11_17-01-09](https://github.com/Telman3000/Labirint/assets/136071674/d585c6a1-ed4e-4f75-91df-506a8d2333b5)
 
 
